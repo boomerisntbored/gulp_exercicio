@@ -1,1 +1,0 @@
-function ಠ_ಠ780(o,n){return o+n}console.log(ಠ_ಠ780(10,20));
